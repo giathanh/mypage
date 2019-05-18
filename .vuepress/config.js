@@ -1,4 +1,5 @@
 module.exports  =  {
+  base: '/mypage/',
   title: 'Tên blog',
   description: 'Mô tả về blog',
   locales:  {
