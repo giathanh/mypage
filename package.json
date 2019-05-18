@@ -1,0 +1,23 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "mypage",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giathanh/mypage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giathanh/mypage/issues"
+  },
+  "homepage": "https://github.com/giathanh/mypage#readme",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
